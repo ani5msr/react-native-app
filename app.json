@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "react-na",
+    "slug": "react-na",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
